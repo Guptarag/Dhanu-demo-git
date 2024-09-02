@@ -15,5 +15,5 @@ hii
 <h1> add / commit files</h1>
 1. git add "filename"       --> to add single file <br>
 2. git add .                --> to add all files at a time
-
+<br>
 3. git commit -m "add a comment"
