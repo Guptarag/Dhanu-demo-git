@@ -43,3 +43,48 @@ hii
 4.  git checkout branchName  (to navigate branches)
 <br>
 5.  git checkout -d <..branchName> (to delete branch. here we cannot delete current branch if we have to delete the branch we have to navigate to another branch and delete that particular branch)
+
+#Merging Code
+<h1>2 ways <h1>
+<br>
+<h1>1st way <h1>
+<hr>
+1. git diff <--branchName--> (to compare commits , branches, files & more)
+<br>
+2 . git merge <--branchName--> ( to merge 2 branches)
+
+<h2>2nd Way <h2>
+by using pull request on github
+
+pull request: it tells about changes you have pushed to a branch on repository on github
+
+
+<h1>Undoing Changes <h1>
+
+Case 1: staged changes
+
+git reset <- file name ->
+<br>
+git reset
+<br>
+Case 2: commited changes (for one commit)
+<br>
+
+git reset HEAD~1
+<br>
+
+Case 3: commited changes (for many commits)
+<br>
+
+git reset <- commit hash ->
+<br>
+
+git reset --hard <- commit hash
+<br>
+
+
+
+<h1>Fork</h1>
+
+a fork refers to a personal copy of another user’s repository. When you fork a repository, a new copy of the repository is created under your own account enabling you to experiment and edit as necessary
+
