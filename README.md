@@ -17,3 +17,16 @@ hii
 2. git add .                --> to add all files at a time
 <br>
 3. git commit -m "add a comment"
+
+<h1>Init Command</h1>
+<h2> init -used to create a new git repository </h2>
+
+1. git init 
+<br>
+2. git remote add origin "repository link" 
+<br>
+3. git remote -v  (to verify remote)
+<br>
+4. git branch (to get branch name)
+5. git branch -M main
+6. git push orgin main 
