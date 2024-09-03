@@ -18,7 +18,4 @@ hii
 <br>
 3. git commit -m "add a comment"
 
-<style>
-  h1{
-color:"red";
-</style>
+
