@@ -13,7 +13,7 @@ hii
 2. git status
 
 <h1> add / commit files</h1>
-1. git add "filename"       --> to add single file <br>
+1. git add "filename"       --> to add single file (without adding files we cannot commit) <br>
 2. git add .                --> to add all files at a time
 <br>
 3. git commit -m "add a comment"
@@ -25,6 +25,9 @@ hii
 2. git add remote <..link>
 <br>
 3. git remote -v (verify remote)
+<br>
 4. git branch (to get branch name)
+<br>
 5. git branch -M main (to rename branch )
+<br>
 6. git push orgin main 
