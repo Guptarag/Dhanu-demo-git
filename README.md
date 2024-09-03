@@ -18,4 +18,10 @@ hii
 <br>
 3. git commit -m "add a comment"
 
-h
+<h1> init commands </h1>
+
+1. git init
+<br>
+2. git add remote <..link>
+<br>
+3. git remote -v (verify remote)
