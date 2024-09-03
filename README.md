@@ -28,5 +28,7 @@ hii
 3. git remote -v  (to verify remote)
 <br>
 4. git branch (to get branch name)
+<br>
 5. git branch -M main
+<br>
 6. git push orgin main 
