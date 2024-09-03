@@ -17,3 +17,8 @@ hii
 2. git add .                --> to add all files at a time
 <br>
 3. git commit -m "add a comment"
+
+<style>
+  h1{
+color:"red";
+</style>
