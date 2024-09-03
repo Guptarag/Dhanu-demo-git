@@ -31,3 +31,15 @@ hii
 5. git branch -M main (to rename branch )
 <br>
 6. git push orgin main 
+<br>
+7. git push -u (to push all upstream files)
+<h1> branch commands </h1>
+1. git branch (to get branch name)
+<br>
+2. git branch -M main (to rename branch )
+<br>
+3. git checkout -b <..branchName> (to create a branch)
+<br>
+4.  git checkout branchName  (to navigate branches)
+<br>
+5.  git checkout -d <..branchName> (to delete branch. here we cannot delete current branch if we have to delete the branch we have to navigate to another branch and delete that particular branch)
