@@ -20,8 +20,11 @@ hii
 
 <h1> init commands </h1>
 
-1. git init
+1.git init
 <br>
 2. git add remote <..link>
 <br>
 3. git remote -v (verify remote)
+4. git branch (to get branch name)
+5. git branch -M main (to rename branch )
+6. git push orgin main 
