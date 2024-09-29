@@ -20,7 +20,7 @@ hii
 3. git commit -m "add a comment"
 
 <h1> init commands </h1>
-
+<hr>
 1.git init
 <br>
 2. git add remote <..link>
