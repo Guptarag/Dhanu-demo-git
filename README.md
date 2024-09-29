@@ -2,6 +2,7 @@
 This is my github learning tutorial
 hii
 <h1> to configure git </h1>
+<hr>
 1. git config --global user.name "username" <br>
 2. git config --global user.email "userEmail"
 <br>
